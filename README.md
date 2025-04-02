@@ -12,12 +12,20 @@ On this GitHub, you’ll find a collection of projects that reflect my journey i
 
 ## 🌟 Featured Projects
 
-### 1. **Resume-Building Chatbot**  
+### 1. **MLImmunotherapy: Personalized Cancer Therapy Recommender**  
+_Developed as an independent research initiative._  
+**Tech Stack:** Python, Django, Gym, JavaScript, CSS  
+**Highlights:**  
+Integrated over 500,000 genomic and functional data points to identify 150+ tumor-specific targets and map them to 300+ therapies.  
+Achieved over 74% accuracy in predicting immune responses using models based on MHC-peptide-TCR interactions.  
+
+
+### 2. **Resume-Building Chatbot**  
 _Developed during my internship at Nautilus Principle._  
 **Tech Stack:** Python, JavaScript, JSON  
 **Highlights:** Uses NLP to interpret user inputs and format resumes automatically.
 
-### 2. **Aspect-Based Sentiment Analysis**  
+### 3. **Aspect-Based Sentiment Analysis**  
 _Worked on analyzing public feedback for services  ._  
 **Tech Stack:** Python, PyTorch, Google Colab
 **Highlights:** Provides actionable insights into public sentiment.
