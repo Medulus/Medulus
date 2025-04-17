@@ -12,7 +12,15 @@ On this GitHub, you’ll find a collection of projects that reflect my journey i
 
 ## 🌟 Featured Projects
 
-### 1. **MLImmunotherapy: Personalized Cancer Therapy Recommender**  
+### 1. **[AI & Robotics Newsletter Generator]**(https://github.com/Medulus/XSummary)
+_Automated newsletter pipeline summarizing industry insights._  
+**Tech Stack:** Python, Tweepy (v2), Pandas, OpenAI API (gpt‑3.5‑turbo), FPDF  
+**Highlights:**  
+- Aggregates tweets every 12 hours from 25+ AI/robotics thought leaders  
+- Uses GPT‑4.0-mini to condense 50+ tweets into a 4‑section Markdown newsletter  
+- Converts Markdown to polished PDF reports automatically
+
+### 2. **MLImmunotherapy: Personalized Cancer Therapy Recommender**  
 _Developed as an independent research initiative._  
 **Tech Stack:** Python, Django, Gym, JavaScript, CSS  
 **Highlights:**  
@@ -20,12 +28,12 @@ Integrated over 500,000 genomic and functional data points to identify 150+ tumo
 Achieved over 74% accuracy in predicting immune responses using models based on MHC-peptide-TCR interactions.  
 
 
-### 2. **Resume-Building Chatbot**  
+### 3. **Resume-Building Chatbot**  
 _Developed during my internship at Nautilus Principle._  
 **Tech Stack:** Python, JavaScript, JSON  
 **Highlights:** Uses NLP to interpret user inputs and format resumes automatically.
 
-### 3. **Aspect-Based Sentiment Analysis**  
+### 4. **Aspect-Based Sentiment Analysis**  
 _Worked on analyzing public feedback for services  ._  
 **Tech Stack:** Python, PyTorch, Google Colab
 **Highlights:** Provides actionable insights into public sentiment.
