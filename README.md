@@ -35,7 +35,7 @@ _Developed during my internship at Nautilus Principle._
 
 ### 4. **Aspect-Based Sentiment Analysis**  
 _Worked on analyzing public feedback for services  ._  
-Developed during my internship at Mannai Infotech.
+Developed during my internship at Mannai Infotech.  
 **Tech Stack:** Python, PyTorch, Google Colab
 **Highlights:** Provides actionable insights into public sentiment.
 
