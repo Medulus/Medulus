@@ -12,7 +12,7 @@ On this GitHub, you’ll find a collection of projects that reflect my journey i
 
 ## 🌟 Featured Projects
 
-### 1. **[AI & Robotics Newsletter Generator]**(https://github.com/Medulus/XSummary)
+### 1. [AI & Robotics Newsletter Generator](https://github.com/Medulus/XSummary)
 _Automated newsletter pipeline summarizing industry insights._  
 **Tech Stack:** Python, Tweepy (v2), Pandas, OpenAI API (gpt‑3.5‑turbo), FPDF  
 **Highlights:**  
