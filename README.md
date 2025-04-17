@@ -29,13 +29,13 @@ Achieved over 74% accuracy in predicting immune responses using models based on 
 
 
 ### 3. **Resume-Building Chatbot**  
-_Developed during my internship at Nautilus Principle._  
-**Tech Stack:** Python, JavaScript, JSON  
+_Developed during my internship at Nautilus Principle._   
+**Tech Stack:** Python, JavaScript, JSON   
 **Highlights:** Uses NLP to interpret user inputs and format resumes automatically.
 
 ### 4. **Aspect-Based Sentiment Analysis**  
-_Worked on analyzing public feedback for services  ._ 
-_Developed during my internship at Mannai Infotech._ 
+_Worked on analyzing public feedback for services  ._  
+Developed during my internship at Mannai Infotech.
 **Tech Stack:** Python, PyTorch, Google Colab
 **Highlights:** Provides actionable insights into public sentiment.
 
