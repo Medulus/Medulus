@@ -12,7 +12,16 @@ On this GitHub, you’ll find a collection of projects that reflect my journey i
 
 ## 🌟 Featured Projects
 
-### 1.  [AI & Robotics Newsletter Generator](https://github.com/Medulus/XSummary)
+### 1. [FuncForge](https://github.com/your-username/FuncForge](https://github.com/SaiPavankumar22/FuncCheckr))
+_An AI-powered interactive testing playground for Python functions._
+**Tech Stack:** Python, React, Tailwind CSS, Flask, Monaco Editor, LLaMA-3 (Groq)
+**Highlights:**
+- Cuts debugging time by 92% by auto-generating input forms and dynamic test harnesses
+- Parses code with AST and leverages LLaMA-3 to transform and return testable logic
+- Uses secure sandboxed execution to safely run 2k+ untrusted code runs
+
+
+### 2.  [AI & Robotics Newsletter Generator](https://github.com/Medulus/XSummary)
 _Automated newsletter pipeline summarizing industry insights._  
 **Tech Stack:** Python, Tweepy (v2), Pandas, OpenAI API (gpt‑4.0‑mini), FPDF  
 **Highlights:**
@@ -20,7 +29,7 @@ _Automated newsletter pipeline summarizing industry insights._
 - Uses GPT‑4.0-mini to condense 50+ tweets into a 4‑section Markdown newsletter  
 - Converts Markdown to polished PDF reports automatically
 
-### 2. [MLImmunotherapy: Personalized Cancer Therapy Recommender](https://github.com/Medulus/BioHacks25)
+### 3. [MLImmunotherapy: Personalized Cancer Therapy Recommender](https://github.com/Medulus/BioHacks25)
 _Developed as an independent research initiative._  
 **Tech Stack:** Python, Django, Gym, JavaScript, CSS  
 **Highlights:**  
@@ -28,12 +37,12 @@ Integrated over 500,000 genomic and functional data points to identify 150+ tumo
 Achieved over 74% accuracy in predicting immune responses using models based on MHC-peptide-TCR interactions.  
 
 
-### 3. **Resume-Building Chatbot**  
+### 4. **Resume-Building Chatbot**  
 _Developed during my internship at Nautilus Principle._   
 **Tech Stack:** Python, JavaScript, JSON   
 **Highlights:** Uses NLP to interpret user inputs and format resumes automatically.
 
-### 4. **Aspect-Based Sentiment Analysis**  
+### 5. **Aspect-Based Sentiment Analysis**  
 _Worked on analyzing public feedback for services  ._  
 Developed during my internship at Mannai Infotech.  
 **Tech Stack:** Python, PyTorch, Google Colab
