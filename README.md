@@ -12,7 +12,7 @@ On this GitHub, you’ll find a collection of projects that reflect my journey i
 
 ## 🌟 Featured Projects
 
-### 1. [FuncForge](https://github.com/your-username/FuncForge](https://github.com/SaiPavankumar22/FuncCheckr))
+### 1. [FuncForge](https://github.com/SaiPavankumar22/FuncCheckr)
 _An AI-powered interactive testing playground for Python functions._
 **Tech Stack:** Python, React, Tailwind CSS, Flask, Monaco Editor, LLaMA-3 (Groq)
 **Highlights:**
